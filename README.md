@@ -1,5 +1,10 @@
 # mask-detector
 
+<p align="center">
+  <img src="https://github.com/nicolazande/mask-detector/assets/115359494/2ec1cc57-d2e2-470c-b3aa-94b5a6cf87e8" width="400" alt="Image 1">
+  <img src="https://github.com/nicolazande/mask-detector/assets/115359494/5ff515b8-d5ad-4bb5-99b2-b578b5b631ee" width="400" alt="Image 2">
+</p>
+
 ## Description
 
 This project aims to develop a machine learning solution for classifying images depicting groups of people based on the number of masked individuals. The goal is to determine the following cases in an image:
